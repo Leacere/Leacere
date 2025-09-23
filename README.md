@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Leacere
-- 👀 I’m interested in machine learning for biologists
-- 💞️ I’m looking to collaborate on program development 
-- 📫 How to reach me via email, leahprud@gmail.com
-- 😄 Pronouns: she/her
 
 
 <!---
